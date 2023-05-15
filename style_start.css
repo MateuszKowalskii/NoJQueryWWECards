@@ -1,0 +1,75 @@
+body{
+	background-image: url("img/tlo.jpg");
+	background-size: cover; /*rozciąga obraz na całe tło*/
+}
+#wstep{
+	margin-left:auto;
+	margin-right:auto;
+	background-color: grey;
+	width: 430px;
+	
+	text-align:center;
+	
+}
+.naglowek{
+	margin-left:auto;
+	margin-right:auto;
+	background-color: grey;
+	width: 430px;
+	
+	font-size: 30px;
+	text-align:center;
+	
+}
+#kontener img{
+	height: 140px;
+}
+#kontener{
+	margin-left:auto;
+	margin-right:auto;
+	margin-top: 40px;	
+	background-color: grey;
+	width: 450px;
+	min-height: 600px;
+	
+	padding: 50px 0 50px 0;
+	
+	border-radius: 20px;
+	border: 5px solid #ad172e;
+
+	text-align: center;
+}
+span{
+	color: #ad172e;
+}
+nav{
+	margin-top: 40px;
+	font-size: 25px;
+	font-weight: 700;
+}
+#nr1,#nr2,#nr3{
+	border-radius: 20px;
+	border: 5px solid #ad172e;
+	
+	margin-left:auto;
+	margin-right:auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	
+	width: 280px;
+	background-color: #be281f;
+	color: white;
+}
+#nr1:hover,#nr2:hover,#nr3:hover{
+	background-color: #cf392f;
+	cursor: pointer;
+}
+footer{
+	margin-top: 60px;
+	color: white;
+}
+
+a{
+	text-decoration:none;
+}
+
