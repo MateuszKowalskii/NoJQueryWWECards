@@ -1,6 +1,6 @@
 const obrazki = ['cena.jpg','finn balor.jpg','triple h.jpg','aj styles.jpg','edge.jpg','ronda rousey.jpg','becky lynch.jpg','charlotte flair.jpg','roman reigns.jpg','randy orton.jpg','kevin owens.jpg','seth rollins.jpg','bayley.jpg','sasha banks.jpg','sami zayn.jpg','baron corbin.jpg','rey mysterio.jpg','drew mcintyre.jpg','sheamus.jpg','bobby lashley.jpg'];
 
-var wybor = localStorage.getItem('property');//BARDZO FAJNA TECHHNIKA
+var wybor = localStorage.getItem('property');
 var selekcja = [];
 var LICZNIK = 0;
 var BLOKADA = false;
